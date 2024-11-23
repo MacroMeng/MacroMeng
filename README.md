@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/MBTI-INFP-red?style=for-the-badge&labelColor=%23222222&color=%2355b060)
 ![](https://img.shields.io/github/sponsors/MacroMeng?style=for-the-badge&color=%23dd1111&labelColor=%23222222)
 ![](https://img.shields.io/github/followers/MacroMeng?style=for-the-badge&labelColor=%23222222)
+![](https://img.shields.io/github/stars/MacroMeng?style=for-the-badge&labelColor=%23222222&color=%23ff9922)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MacroMeng&show_icons=true&icon_color=5bc54e&text_color=dddddd&bg_color=222222&hide_title=false" />
 
