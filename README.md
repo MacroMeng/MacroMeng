@@ -2,15 +2,13 @@
 
 ## Brief description
 ![](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&labelColor=%23222222&color=%233572a3)
-![](https://img.shields.io/badge/Language-Scratch-blue?style=for-the-badge&labelColor=%23222222&color=%23ffa306)
 ![](https://img.shields.io/badge/Nation-China-red?style=for-the-badge&labelColor=%23222222&color=%23ff0000)
 ![](https://img.shields.io/badge/City-Suzhou%2C%20Jangsu-red?style=for-the-badge&labelColor=%23222222&color=%2377c97b)
 ![](https://img.shields.io/badge/MBTI-INFP-red?style=for-the-badge&labelColor=%23222222&color=%2355b060)
 ![](https://img.shields.io/github/sponsors/MacroMeng?style=for-the-badge&color=%23dd1111&labelColor=%23222222)
 ![](https://img.shields.io/github/followers/MacroMeng?style=for-the-badge&labelColor=%23222222)
 ![](https://img.shields.io/github/stars/MacroMeng?style=for-the-badge&labelColor=%23222222&color=%23ff9922)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MacroMeng&show_icons=true&icon_color=5bc54e&text_color=dddddd&bg_color=222222&hide_title=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MacroMeng&show_icons=true&icon_color=5bc54e&text_color=dddddd&bg_color=222222&hide_title=true"/>
 
 ## Introductions
 ### Where do I come from?
