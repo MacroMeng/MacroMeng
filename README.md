@@ -1,6 +1,6 @@
-# MacrosMeng is here!
+# MacrosMeng on GitHub
 
-## Brief description
+## ❇️Brief description
 ![](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&labelColor=%23222222&color=%233572a3)
 ![](https://img.shields.io/badge/Nation-China-red?style=for-the-badge&labelColor=%23222222&color=%23ff0000)
 ![](https://img.shields.io/badge/City-Suzhou%2C%20Jangsu-red?style=for-the-badge&labelColor=%23222222&color=%2377c97b)
@@ -10,14 +10,8 @@
 ![](https://img.shields.io/github/stars/MacroMeng?style=for-the-badge&labelColor=%23222222&color=%23ff9922)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MacroMeng&show_icons=true&icon_color=5bc54e&text_color=dddddd&bg_color=222222&hide_title=true"/>
 
-## Introductions
-### Where do I come from?
-I'm from **CHINA**.  
-I'm a **boy**!
-
-### Why did I come to GitHub?
-I **love** GitHub.  
-There are many **open source** projects here in a **great environment**.
+## 📃Intro
+CN的，爱写Python，plays MC，目前在[Lamina](https://github.com/Lamina-dev/Lamina)社区活跃。
 
 ### What can you do?
 First, I can write *Python* code. Maybe I should say hello to you:`print("Hello, World!")`  
