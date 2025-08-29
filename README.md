@@ -13,16 +13,11 @@
 ## 📃Intro
 CN的，爱写Python，plays MC，目前在[Lamina](https://github.com/Lamina-dev/Lamina)社区活跃。
 
-### What can you do?
-First, I can write *Python* code. Maybe I should say hello to you:`print("Hello, World!")`  
-Next, I can write *Java and C-like* code, but not very skilled.  
-Finally, I want to try *Golang* and *Rust*.
+### 🖥️业务
+学生，日常写一点Python小工具，目前致力于[PyLamina](https://github.com/MacroMeng/PyLamina)。
 
-### How can I be contacted?
-Email: Meng-YC@outlook.com  
-Welcome!
-
-##### At Last I want to say sorry because I can't speak English very well.
+### 💬联系方式
+Email: [Meng-YC@outlook.com](mailto:Meng-YC@outlook.com)
 
 <!---
 MacroMeng/MacroMeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
